@@ -1,5 +1,8 @@
 OSSEC v3.6.0 Copyright (C) 2019 Trend Micro Inc.
 
+OSSEC是一个监视和控制系统的完整平台。它将HIDS(基于主机的入侵检测)、日志监控和SIM/SIEM的所有方面混合在一个简单、强大和开源的解决方案中。
+还是很值得学习的，主机安全的驱动很多。
+
 # Information about OSSEC 
 
 OSSEC is a full platform to monitor and control your systems. It mixes together 
